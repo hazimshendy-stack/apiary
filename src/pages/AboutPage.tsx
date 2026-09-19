@@ -1,5 +1,4 @@
 import { site, activeSeason, seasons } from '@/data';
-import { branches } from '@/data/branches';
 import { getBranchDistribution, getOrgStats, getAllTeamStats } from '@/lib/derive';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { SectionHeader } from '@/components/ui/SectionHeader';
